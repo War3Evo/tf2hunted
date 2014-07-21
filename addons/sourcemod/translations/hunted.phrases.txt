@@ -1,0 +1,99 @@
+﻿"Phrases"
+{
+	"HuntedActivated"
+	{
+		"en"		"The Hunted Mod activated!"
+		"de"		"The Hunted Mod aktiviert!"
+		"fr"		"Mode de jeu « Hunted » activé!"
+	}
+	"HuntedDeactivated"
+	{
+		"en"		"The Hunted Mod deactivated!"
+		"de"		"The Hunted Mod deaktiviert!"
+		"fr"		"Mode de jeu « Hunted » désactivé."
+	}
+	"NewHunted"
+	{
+		"en"		"A new Hunted has been chosen!"
+		"de"		"Ein neuer Gejagter wurde gewählt!"
+		"fr"		"Une nouvelle Cible a été choisie!"
+	}
+	"PlayerNewHunted"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} is now the Hunted!"
+		"de"		"{1} ist jetzt der Gejagte!"
+		"fr"		"{1} est la nouvelle Cible!"
+	}
+	"NoHuntedWarning"
+	{
+		"en"		"There is no Hunted!\n10 seconds until a new Hunted is chosen..."
+		"de"		"Es gibt keinen Gejagten!\nIn 10 Sekunden wird ein neuer Gejagter gewählt..."
+		"fr"		"Il manque une Cible!\nUne nouvelle Cible sera choisie dans 10 secondes..."
+	 }
+	 "HuntedDied"
+	 {
+		"en"		"The Hunted has died!"
+		"de"		"Der Gejagte ist gestorben!"
+		"fr"		"La Cible est morte!"
+	}
+	"KilledHunted"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} killed the Hunted!\nPrepare to respawn..."
+		"de"		"{1} hat den Gejagten getötet!\nBereite dich auf einen Neustart vor..."
+		"fr"		"{1} a assassiné la Cible!\nC’est reparti pour un tour..."
+	}
+	"KilledHuntedAssist"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1} and {2} killed the Hunted!\nPrepare to respawn..."
+		"de"		"{1} und {2} haben den Gejagten getötet!\nBereite dich auf einen Neustart vor..."
+		"fr"		"{1} & {2} ont assassiné la Cible!\nC’est reparti pour un tour..."
+
+	}
+	"AssassinSpawn"
+	{
+		"en"		"You are on the Assassins! Kill the Hunted and stop him from escaping!"
+		"de"		"Du bist bei den Assassins! Töte den Gejagten und hindere ihn am entkommen!"
+		"fr"		"Vous êtes un Assassin! Tuez la Cible pour l’empêcher de s’échapper!"
+	}
+	"AssassinSpawnDeny"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} is not allowed for the Assassins. You may be a Sniper, Spy, or Pyro."
+		"de"		"{1} ist bei den Assassins nicht erlaubt. Wähle zwischen Sniper, Spy oder Pyro."
+		"fr"		"{1} n’est pas autorisé pour les Assassins. Uniquement Sniper, Espion, ou Pyro."
+	}
+	"BodyguardSpawn"
+	{
+		"en"		"You are on the Bodyguards! Protect the Hunted and kill the Assassins!"
+		"de"		"Du bist bei den Bodyguards! Beschütze den Gejagten und töte die Assassins!"
+		"fr"		"Vous êtes un Garde du corps! Protégez la Cible à tout prix!"
+	}
+	"BodyguardSpawnDeny"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} is not allowed for the Bodyguards. You may be a Soldier, Medic, or Heavy."
+		"de"		"{1} ist bei den Bodyguards nicht erlaubt. Wähle zwischen Soldier, Medic oder Heavy."
+		"fr"		"{1} n’est pas auorisé pour les Gardes du corps. Uniquement Soldat, Médic, ou Heavy."
+	}
+	"HuntedSpawn"
+	{
+		"en"		"You are The Hunted! Escape or die trying!"
+		"de"		"Du bist der Gejagte! Entkomme oder stirb auf der Flucht!"
+		"fr"		"Vous êtes la Cible! Restez en vie et parvenez jusqu’à la sortie!"
+	}
+	"HuntedSpawnDeny"
+	{
+		"en"		"There is already a Hunted on your team!"
+		"de"		"Es gibt bereits einen Gejagten in deinem Team!"
+		"fr"		"Il y a déjà une Cible dans votre équipe."
+	}
+	"TeamBalanced"
+	{
+		"en"		"You have been moved to the Bodyguards for team balance."
+		"de"		"Um die Teams auszugleichen spielst du jetzt bei den Bodyguards."
+		"fr"		"Vous avez été déplacé chez les Gardes du corps pour équilibrer les équipes."
+	}
+}
