@@ -5,18 +5,21 @@
 		"en"		"The Hunted Mod activated!"
 		"de"		"The Hunted Mod aktiviert!"
 		"fr"		"Mode de jeu « Hunted » activé!"
+		"ru"		"The Hunted Mod активирован!"
 	}
 	"HuntedDeactivated"
 	{
 		"en"		"The Hunted Mod deactivated!"
 		"de"		"The Hunted Mod deaktiviert!"
 		"fr"		"Mode de jeu « Hunted » désactivé."
+		"ru"		"The Hunted Mod деактивирован!"
 	}
 	"NewHunted"
 	{
 		"en"		"A new Hunted has been chosen!"
 		"de"		"Ein neuer Gejagter wurde gewählt!"
 		"fr"		"Une nouvelle Cible a été choisie!"
+		"ru"		"Новая Жертва была выбрана!"
 	}
 	"PlayerNewHunted"
 	{
@@ -24,18 +27,21 @@
 		"en"		"{1} is now the Hunted!"
 		"de"		"{1} ist jetzt der Gejagte!"
 		"fr"		"{1} est la nouvelle Cible!"
+		"ru"		"{1} теперт Жертва!"
 	}
 	"NoHuntedWarning"
 	{
 		"en"		"There is no Hunted!\n10 seconds until a new Hunted is chosen..."
 		"de"		"Es gibt keinen Gejagten!\nIn 10 Sekunden wird ein neuer Gejagter gewählt..."
 		"fr"		"Il manque une Cible!\nUne nouvelle Cible sera choisie dans 10 secondes..."
+		"ru"		"Жертвы нет!\n10 секунд, пока новая Жертва будет выбрана..."
 	 }
 	 "HuntedDied"
 	 {
 		"en"		"The Hunted has died!"
 		"de"		"Der Gejagte ist gestorben!"
 		"fr"		"La Cible est morte!"
+		"ru"		"Жертва мертва!"
 	}
 	"KilledHunted"
 	{
@@ -43,6 +49,7 @@
 		"en"		"{1} killed the Hunted!\nPrepare to respawn..."
 		"de"		"{1} hat den Gejagten getötet!\nBereite dich auf einen Neustart vor..."
 		"fr"		"{1} a assassiné la Cible!\nC’est reparti pour un tour..."
+		"ru"		"{1} убил Жертву!\nПриготовьтесь к возрождению..."
 	}
 	"KilledHuntedAssist"
 	{
@@ -50,6 +57,7 @@
 		"en"		"{1} and {2} killed the Hunted!\nPrepare to respawn..."
 		"de"		"{1} und {2} haben den Gejagten getötet!\nBereite dich auf einen Neustart vor..."
 		"fr"		"{1} & {2} ont assassiné la Cible!\nC’est reparti pour un tour..."
+		"ru"		"{1} и {2} убили Жертву!\nПриготовьтесь к возрождению..."
 
 	}
 	"AssassinSpawn"
@@ -57,6 +65,7 @@
 		"en"		"You are on the Assassins! Kill the Hunted and stop him from escaping!"
 		"de"		"Du bist bei den Assassins! Töte den Gejagten und hindere ihn am entkommen!"
 		"fr"		"Vous êtes un Assassin! Tuez la Cible pour l’empêcher de s’échapper!"
+		"ru"		"Вы Ассассин! Убейте Жертву и остановите ее от побега!"
 	}
 	"AssassinSpawnDeny"
 	{
@@ -64,12 +73,14 @@
 		"en"		"{1} is not allowed for the Assassins. You may be a Sniper, Spy, or Pyro."
 		"de"		"{1} ist bei den Assassins nicht erlaubt. Wähle zwischen Sniper, Spy oder Pyro."
 		"fr"		"{1} n’est pas autorisé pour les Assassins. Uniquement Sniper, Espion, ou Pyro."
+		"ru"		"{1} не разрешен для Ассасинов. Вы можете быть Снайпером, Шпионом или Поджигателем."
 	}
 	"BodyguardSpawn"
 	{
 		"en"		"You are on the Bodyguards! Protect the Hunted and kill the Assassins!"
 		"de"		"Du bist bei den Bodyguards! Beschütze den Gejagten und töte die Assassins!"
 		"fr"		"Vous êtes un Garde du corps! Protégez la Cible à tout prix!"
+		"ru"		"Вы Телохранитель! Защити Жертв и убей Ассасинов!"
 	}
 	"BodyguardSpawnDeny"
 	{
@@ -77,23 +88,27 @@
 		"en"		"{1} is not allowed for the Bodyguards. You may be a Soldier, Medic, or Heavy."
 		"de"		"{1} ist bei den Bodyguards nicht erlaubt. Wähle zwischen Soldier, Medic oder Heavy."
 		"fr"		"{1} n’est pas auorisé pour les Gardes du corps. Uniquement Soldat, Médic, ou Heavy."
+		"ru"		"{1} не разрешен для Телохранителей. Вы можете быть Солдатом, Медиком или Пулемётчиком."
 	}
 	"HuntedSpawn"
 	{
 		"en"		"You are The Hunted! Escape or die trying!"
 		"de"		"Du bist der Gejagte! Entkomme oder stirb auf der Flucht!"
 		"fr"		"Vous êtes la Cible! Restez en vie et parvenez jusqu’à la sortie!"
+		"ru"		"Вы Жертва! Сбегите или умрите, пытаясь!"
 	}
 	"HuntedSpawnDeny"
 	{
 		"en"		"There is already a Hunted on your team!"
 		"de"		"Es gibt bereits einen Gejagten in deinem Team!"
 		"fr"		"Il y a déjà une Cible dans votre équipe."
+		"ru"		"В вашей команде уже есть Жертва!"
 	}
 	"TeamBalanced"
 	{
 		"en"		"You have been moved to the Bodyguards for team balance."
 		"de"		"Um die Teams auszugleichen spielst du jetzt bei den Bodyguards."
 		"fr"		"Vous avez été déplacé chez les Gardes du corps pour équilibrer les équipes."
+		"ru"		"Вы были перемещены в команду Телохранителей для баланса команды."
 	}
 }
